@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Make it deploy (ubuntu)
+- [ ] Make it deploy (vercel)
 - [ ] Scaffold basic ui with mock data
 - [ ] Actually set up a database (mysql)
 - [ ] Attach database to UI
@@ -13,3 +13,4 @@
 - [ ] Delete button (w/ Server Actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
+- [ ] Make it deploy (self-hosted)
