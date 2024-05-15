@@ -4,7 +4,8 @@
 
 - [x] Make it deploy (vercel)
 - [x] Scaffold basic ui with mock data
-- [ ] Actually set up a database (mysql)
+- [x] Tidy up build process
+- [ ] Actually set up a database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
 - [ ] Add image upload
@@ -14,3 +15,4 @@
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
 - [ ] Make it deploy (self-hosted)
+- [ ] Switch to a self-hosted mysql db
